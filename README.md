@@ -1,6 +1,7 @@
 # Room Listing Page
-Hosted Website Link : - https://room-list-psi.vercel.app/
 A responsive room listing page with infinite loading capabilities using React JS, Material UI, and Redux for state management.
+
+Hosted Website Link : - https://room-list-psi.vercel.app/
 
 ## Project Setup
 
