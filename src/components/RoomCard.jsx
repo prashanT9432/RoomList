@@ -9,8 +9,6 @@ const RoomCard = ({ myData }) => {
       ? "https://d1tf573zhz3zzy.cloudfront.net/data/content/images/itemImages/HOTEL_ROOM/sourced/Dubai/126675265/347985843.jpg"
       : properties.room_images[0].image_urls[randomNumber];
 
-  console.log(myData);
-  // console.log(myData);
 
   return (
     <div className="card">
