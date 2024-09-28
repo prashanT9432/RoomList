@@ -12,18 +12,10 @@ Hosted Website Link : - https://room-list-psi.vercel.app/
 
 ## Technologies Used
 
-- React JS
-- Redux
-- Material UI
+- React Js
 - React Infinite Scroll Component
 - Json server
-
-## Features
-
 - Infinite scrolling
-- Lazy loading for images and videos
-- Skeleton loading placeholders
-- Error handling
 
 ## Deployment
 
